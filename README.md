@@ -1,5 +1,6 @@
 # F.A.Q
-##Standards
+
+## Standards
 ### International
 - [ISO/IEC/IEEE 42010:2011][ISO/IEC/IEEE 42010:2011] Systems and software engineering — Architecture description
 ### Russian
